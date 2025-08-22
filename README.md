@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 ### Now
-- Working on search at [Shop App](https://shop.app/)
+- Working on search at Shopify
 
 ### Past
-
-- Processing simulator output at Environment Canada
-
-- Studying mathematics and philosophy at UBC
+- Wind Energy Research Group at Environment Canada
+- Studied mathematics and philosophy at UBC
